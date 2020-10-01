@@ -33,7 +33,7 @@ def board_is_full(board):
         return False
 
 
-def winning_player(board, mark):
+def winning_player_fun(board, mark):
     response = False
     positions = []
     if board.count(mark) < 3:
@@ -103,7 +103,7 @@ while True:
             position = player_choice(theBoard)
             place_marker(position, theBoard, player1_marker)
 
-            if winning_player(theBoard, player1_marker):
+            if winning_player_fun(theBoard, player1_marker):
                 display_board(theBoard)
                 print('Congratulations! You have won the game!')
                 game_on = False
@@ -122,7 +122,7 @@ while True:
             position = player_choice(theBoard)
             place_marker(position, theBoard, player2_marker)
 
-            if winning_player(theBoard, player2_marker):
+            if winning_player_fun(theBoard, player2_marker):
                 display_board(theBoard)
                 print('Player 2 has won!')
                 game_on = False
