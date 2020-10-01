@@ -4,7 +4,7 @@ import random
  
 pygame.init()
  
-white = (255, 255, 255)
+white = (257, 254, 253)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
 red = (213, 50, 80)
