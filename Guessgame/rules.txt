@@ -1,0 +1,25 @@
+Hello everyone Welcome to
+
+"Guess the word" - game
+
+HOW TO PLAY :
+
+The game begins with the COMPUTER Choosing a word. Later the User ,ie 'you' ; have to guess the word 
+
+you can type charactor by charactor 
+ie :
+ Guess a word : 'a' 
+ Guess a word : 'b' 
+
+ you can also guess the entire word itself:
+
+ Guess a word : 'like this' 
+ Guess a word : 'this_is_a_word' 
+ Guess a word : 'apple' 
+
+ anything in between will be considered as wrong
+
+You got 12 life in total , that means you can only guess 12 times.
+
+If you fail to do so , then you lose 
+
