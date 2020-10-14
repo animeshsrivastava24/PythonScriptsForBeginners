@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"ArtistId","INTEGER","3","3","0"
+"Name","STRING","85","0","0"

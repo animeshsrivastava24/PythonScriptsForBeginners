@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"AlbumId","INTEGER","3","3","0"
+"Title","STRING","95","0","0"
+"ArtistId","INTEGER","3","3","0"

@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"GenreId","INTEGER","2","2","0"
+"Name","STRING","18","0","0"

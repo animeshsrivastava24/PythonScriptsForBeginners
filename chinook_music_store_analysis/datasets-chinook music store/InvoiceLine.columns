@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"InvoiceLineId","INTEGER","4","4","0"
+"InvoiceId","INTEGER","3","3","0"
+"TrackId","INTEGER","4","4","0"
+"UnitPrice","DECIMAL","4","1","2"
+"Quantity","INTEGER","1","1","0"
