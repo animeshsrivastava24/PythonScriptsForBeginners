@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"MediaTypeId","INTEGER","1","1","0"
+"Name","STRING","27","0","0"

@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"PlaylistId","INTEGER","2","2","0"
+"TrackId","INTEGER","4","4","0"
